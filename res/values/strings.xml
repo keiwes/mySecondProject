@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">mySecondProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Megan is Hot</string>
+    <string name="megan_hot">Megan is Hot!</string>
+    <string name="hotButton">Is Megan Hot?</string>
+
+</resources>
